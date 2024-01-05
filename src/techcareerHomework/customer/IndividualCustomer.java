@@ -1,9 +1,9 @@
-package technartsHomework.customer;
+package techcareerHomework.customer;
 
 import java.util.List;
 
-import technartsHomework.car.Car;
-import technartsHomework.car.Hatchback;
+import techcareerHomework.car.Car;
+import techcareerHomework.car.Hatchback;
 
 public class IndividualCustomer extends Customer{
 	

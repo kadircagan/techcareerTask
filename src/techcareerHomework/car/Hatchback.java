@@ -1,4 +1,4 @@
-package technartsHomework.car;
+package techcareerHomework.car;
 
 public class Hatchback extends Car{
 

@@ -1,17 +1,17 @@
-package technartsHomework;
+package techcareerHomework;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
-import technartsHomework.car.Car;
-import technartsHomework.car.Hatchback;
-import technartsHomework.car.SUV;
-import technartsHomework.car.Sedan;
-import technartsHomework.customer.CorporateCustomer;
-import technartsHomework.customer.Customer;
-import technartsHomework.customer.IndividualCustomer;
+import techcareerHomework.car.Car;
+import techcareerHomework.car.Hatchback;
+import techcareerHomework.car.SUV;
+import techcareerHomework.car.Sedan;
+import techcareerHomework.customer.CorporateCustomer;
+import techcareerHomework.customer.Customer;
+import techcareerHomework.customer.IndividualCustomer;
 
 public class mainClass {
 	

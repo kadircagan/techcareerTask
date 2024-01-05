@@ -1,8 +1,8 @@
-package technartsHomework.customer;
+package techcareerHomework.customer;
 
 import java.util.List;
 
-import technartsHomework.car.Car;
+import techcareerHomework.car.Car;
 
 public interface Rental {
     void rentalService(Car car);

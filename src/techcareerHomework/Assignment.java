@@ -1,4 +1,4 @@
-package technartsHomework;
+package techcareerHomework;
 
 public class Assignment {
 
